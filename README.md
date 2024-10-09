@@ -7,4 +7,16 @@ Ubuntu Mate minimal install to Nix Package manager
 - ansible
 - openssh-server
 - python3-pip
-- 
+
+
+## Things that need removed
+- firefox
+- atril document viewer
+- libre-office
+
+## Things to install prior to nix
+- run curl command
+-   https://determinate.systems/nix/
+
+## Things to install via nix
+
