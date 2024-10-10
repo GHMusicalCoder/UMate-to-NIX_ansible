@@ -7,6 +7,7 @@ Ubuntu Mate minimal install to Nix Package manager
 - ansible
 - openssh-server
 - python3-pip
+- vim
 
 
 ## Things that need removed
